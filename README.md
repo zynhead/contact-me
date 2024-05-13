@@ -1,1 +1,3 @@
 # contact-me
+
+discord: zynrz
